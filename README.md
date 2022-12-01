@@ -1,6 +1,6 @@
 # Todo App (Type Script)
 
-### Check The Live Website ➡️ [Live Website](https://sekunev.github.io/Tour-Places/)
+### Check The Live Website ➡️ [Live Website](https://sekunev-todo-app.netlify.app/)
 
 ### Description
 
@@ -15,7 +15,7 @@ Project aims to create a todo app.
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Tour-Places/blob/main/src/Animation.gif)
+![image](https://github.com/Sekunev/todoapp_typescript/blob/main/Animation.gif)
 
 ### Project Skeleton
 
@@ -51,3 +51,9 @@ SOLUTION
 ├── package.json
 └── yarn.lock
 ```
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+Project created by Abdullah AHLATLI for educational purposes.
