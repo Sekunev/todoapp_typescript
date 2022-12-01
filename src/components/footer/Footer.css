@@ -1,0 +1,32 @@
+.footer-div {
+  background-color: #07173f;
+  /* opacity: 0.9; */
+  width: 100vw;
+  min-width: 400px;
+  font-size: 1rem;
+  color: #f0ddbc;
+  border: 0.5px solid #aa8b56;
+  border-radius: 5px;
+  height: 55px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  position: fixed;
+}
+footer i {
+  font-size: 1.3rem;
+  color: #f0ddbc;
+  padding-left: 1rem;
+  padding-top: 0.5rem;
+  transition: all 0.5s;
+}
+
+footer i:hover {
+  color: rgb(170, 99, 99);
+  transform: scale(1.2);
+}
